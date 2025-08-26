@@ -1,1 +1,3 @@
+# Educational Game
 
+The simulator is an educational tool designed to help children visualize and understand the principles of projectile motion. It allows them to explore how a ball's trajectory is affected by changes in its initial velocity and launch angle. The different levels demonstrate the concept of gravity as a variable, showing how its effect on objects changes depending on the celestial body—specifically the Moon, Earth, and Sun. This early exposure to kinematics and projectile motion concepts can spark curiosity in children about the world and natural phenomena, allowing them to engage with these scientific principles before they are formally introduced in school.
